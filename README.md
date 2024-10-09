@@ -1,4 +1,5 @@
 # TESoftGolfTranslator
+Now you can edit text in 4 Sega golf Games!
 This app will search and create a dataset of all the Japanese caddie dialog in any of the 4 T&amp;E Golf games on the Sega Mega Drive.  You can then select a string and edit it into English within the text box.  The app can then compile all the new dialog strings and write them back to the rom.  
 
 Summary:  
